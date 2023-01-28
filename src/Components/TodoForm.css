@@ -1,0 +1,6 @@
+.FormContainer {
+    margin-top: 1rem;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
